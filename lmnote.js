@@ -1,5 +1,5 @@
-var bg = 'http://i.imgur.com/xMbQxxD.jpg';
-var square = 'http://i.imgur.com/HCWqSf9.gif';
+var bg = 'background-url';
+var square = 'top-right-url';
 jQuery(document).ready(function ($){
     if (top.document.getElementById('fakebody')) return;
 
